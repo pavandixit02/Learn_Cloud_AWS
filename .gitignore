@@ -1,12 +1,1 @@
-# Ignore AWS notes folders 01 to 10
-/01-Introduction-Cloud-Computing/
-/02-AWS-Fundamentals/
-/03-Create-AWS-Free-Tier-Account/
-/04-Install-AWS-CLI-Windows/
-/05-IAM-User-and-AWS-CLI-Configuration/
-/06-Amazon-EC2/
-/07-Amazon-S3/
-/08-AWS-Lambda/
-/09-Amazon-DynamoDB/
-/10-Amazon-ECS/
-README.md
+# Ignore AWS notes 
